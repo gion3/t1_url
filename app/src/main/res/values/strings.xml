@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test1_voicu_ionut</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_details">Details</string>
+    <string name="hint_1">Add the make of the car</string>
+    <string name="hint_2">Add the model</string>
+    <string name="hint_3">Add the year</string>
+    <string name="add_car_make_err">The make is invalid!</string>
+    <string name="add_car_model_err">The model is invalid!</string>
+    <string name="add_car_year_err">The year is invalid!</string>
+</resources>
